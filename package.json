@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "This tool generates three random colors on the CLI.",
   "main": "main.js",
+  "bin": {
+    "3-random-colors-cli": "main.js"
+  },
   "scripts": {
     "fmt": "prettier --write '**/*.{js,json,md}'"
   },
