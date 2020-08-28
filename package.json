@@ -1,0 +1,35 @@
+{
+  "name": "3-random-colors-cli",
+  "version": "0.1.0",
+  "description": "This tool generates three random colors on the CLI.",
+  "main": "main.js",
+  "scripts": {
+    "fmt": "prettier --write '**/*.{js,json,md}'"
+  },
+  "keywords": [
+    "color",
+    "random",
+    "generator",
+    "cli"
+  ],
+  "author": "shinshin86 <shinshin86npm@gmail.com> (https://github.com/shinshin86)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinshin86/3-random-colors-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shinshin86/3-random-colors-cli/issues"
+  },
+  "homepage": "https://github.com/shinshin86/3-random-colors-cli#readme",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "triad-colors": "^0.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.1"
+  }
+}
