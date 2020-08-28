@@ -11,7 +11,7 @@ You can run it in the Node.js environment.
 ## Install
 
 ```bash
-npm install -g 3-random-colors-cli
+npm install -g shinshin86/3-random-colors-cli
 # or
-yarn global add 3-random-colors-cli
+yarn global add shinshin86/3-random-colors-cli
 ```
